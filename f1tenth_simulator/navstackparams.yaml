@@ -1,0 +1,3 @@
+navfnROS:
+allow_unknown: true
+default_tolerance: 0.1
