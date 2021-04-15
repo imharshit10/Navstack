@@ -3,11 +3,14 @@ These are the two packages I used for the navstack task. The first package, 'f1t
 
 
 Steps for running after cloning, and the cmake function:
-
+```bash
 roslaunch f1tenth_simulator simulator.launch 
+```
 
 In a new terminal,
+```bash
 roslaunch f1tenth_simulator gmapping.launch 
+```
 
 In a new terminal,
 ```bash
