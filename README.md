@@ -1,5 +1,5 @@
 # Navstack
-These are the two packages I used for the navstack task. The first package, 'f1tenth sim' is the simulator while, the second package is for the different parameters used in the local planner.
+These are the two packages I used for the navstack task. The first package, 'f1tenth_simulator' is the simulator while, the second package is present as it contains the different parameters used in the local planner. 
 
 
 Steps for running after cloning, and the cmake function:
