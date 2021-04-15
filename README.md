@@ -10,4 +10,4 @@ In a new terminal,
 roslaunch f1tenth_simulator gmapping.launch 
 
 In a new terminal,
-[rosrun f1tenth_simulator motion.py]
+#[rosrun f1tenth_simulator motion.py]
