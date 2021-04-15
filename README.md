@@ -13,3 +13,6 @@ In a new terminal,
 '''
 rosrun f1tenth_simulator motion.py
 '''
+```bash
+$ git checkout pr/42 pr-42
+```
